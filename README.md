@@ -108,19 +108,19 @@ Countries with high demand present strong opportunities for market expansion, lo
 
 ### Question 1 – Monthly Revenue Trend
 
-![Monthly Revenue Trend](screenshots/Q1_Monthly_Revenue_Trend.png)
+![Monthly Revenue Trend](screenshots/Question_1.png)
 
 ### Question 2 – Top 10 Revenue-Generating Countries
 
-![Top Countries](screenshots/Q2_Top_10_Countries.png)
+![Top Countries](screenshots/Question_2.png)
 
 ### Question 3 – Top 10 Customers by Revenue
 
-![Top Customers](screenshots/Q3_Top_10_Customers.png)
+![Top Customers](screenshots/Question_3.png)
 
 ### Question 4 – Global Demand Analysis
 
-![Global Demand Map](screenshots/Q4_Global_Demand_Map.png)
+![Global Demand Map](screenshots/Question_4.png)
 
 ---
 
